@@ -19,3 +19,5 @@ AI/ML models for food recognition or nutrient estimation
 
 Nutrition API integration (e.g., USDA, Edamam, etc.)
 
+Very sleek
+
